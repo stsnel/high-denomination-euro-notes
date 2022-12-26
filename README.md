@@ -1,7 +1,6 @@
-# high-denomination-euro-notes
-Tracking data for high-denomination euro banknotes
+# Tracking statistics for high-denomination euro banknotes
 
-## Banknote in circulation versus practical use
+## Banknotes in circulation versus practical use
 
 The euro has seven banknote denominations: 5, 10, 20, 50, 100, 200 and 500 euro.
 
@@ -11,7 +10,7 @@ they still make up roughly 3% of all Euro banknotes in circulation.
 
 ![image](plots/ecb-circulation.png)
 
-| 5  | 10  | 20  | 50  | 100  | 200 | 500 |
+| 5 euro | 10 euro | 20 euro | 50 euro | 100 euro | 200 euro| 500 euro|
 |---|---|---|---|---|---|---|
 | 7.2% | 10.1% | 16.1% | 49.1% | 13.5% | 2.0% | 1.0% | 
 

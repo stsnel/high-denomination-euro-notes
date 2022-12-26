@@ -28,7 +28,7 @@ rarely.
 
 * [1] *Banknotes and coins circulation* (2022). European Central Bank (ECB).
       https://www.ecb.europa.eu/stats/policy_and_exchange_rates/banknotes+coins/circulation/html/index.en.html
-* [2] *Bekendheid en Waardering Bankbiljetten* (2021). De Nederlandse Bank (DNB), in Dutch.
+* [2] *Bekendheid en Waardering Bankbiljetten* (2021). De Nederlandse Bank (DNB), in Dutch. Page 11.
       https://www.dnb.nl/media/xyldnnnt/bekendheid-en-waardering-bankbiljetten.pdf
 
 

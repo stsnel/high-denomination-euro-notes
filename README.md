@@ -22,7 +22,10 @@ had never held a 200 euro note and/or a 500 euro note [2]. Although a majority h
 note, most people did not have one in the past year.
 
 This begs the question where all of these high-denomination notes are, if people use them only
-rarely.
+rarely. This document uses data from https://eurobilltracker.com to show in which countries high-denomination
+euro banknotes are reportedly used most frequently, both relative to low-denomination notes and
+in absolute numbers. The repository also contains the processed data and scripts that were used
+to create the graphs and tables.
 
 ## Sources
 

@@ -1,0 +1,79 @@
+Date,Time,Notetype,Maskedserial,Locality
+2022-09-11,08:14:35,10,Uxxxx1638xxx,Monastir
+2022-09-11,08:14:35,10,Wxxxx3352xxx,Monastir
+2022-09-11,08:14:35,10,Wxxxx6162xxx,Monastir
+2022-09-11,08:14:35,5,Mxxxx4157xxx,Monastir
+2022-08-27,14:37:53,10,Wxxxx6875xxx,
+2022-08-27,14:37:21,5,Nxxxx1857xxx,
+2022-08-26,09:04:59,5,Pxxxx2189xxx,Sousse
+2022-08-26,08:47:15,10,Vxxxx5353xxx,Sousse
+2022-08-26,08:46:16,20,Uxxxx6409xxx,Sousse
+2022-08-26,08:45:40,20,Exxxx0777xxx,Sousse
+2022-08-26,08:45:11,20,Uxxxx9266xxx,Sousse
+2022-08-26,08:44:17,10,Uxxxx7798xxx,Sousse
+2022-08-26,08:43:33,20,Rxxxx8320xxx,Sousse
+2022-08-26,08:43:00,50,Wxxxx0443xxx,Sousse
+2022-08-26,08:42:22,50,Uxxxx6241xxx,Sousse
+2022-08-25,17:08:04,10,Pxxxx6323xxx,Sousse
+2022-08-24,09:29:12,20,Uxxxx8278xxx,Sousse
+2022-08-23,09:27:09,20,Sxxxx1517xxx,Sousse
+2022-08-23,09:25:52,50,Vxxxx4998xxx,Sousse
+2022-08-23,05:03:21,20,Zxxxx9136xxx,
+2022-08-23,05:02:36,20,Mxxxx4510xxx,
+2022-08-23,05:01:49,20,Uxxxx5699xxx,Aéroport International de Djerba Zarzis
+2022-08-23,05:01:09,20,Uxxxx0738xxx,Aéroport International de Djerba Zarzis
+2022-08-22,17:47:47,10,Exxxx0258xxx,Monastir
+2022-08-22,05:22:18,5,Zxxxx8100xxx,Zarzis
+2022-08-22,05:20:51,10,Fxxxx9027xxx,Zarzis
+2022-08-21,18:14:58,5,Vxxxx2537xxx,El jem
+2022-08-21,16:12:00,10,Rxxxx6450xxx,Zarzis
+2022-08-21,07:48:42,5,Hxxxx2361xxx,Sousse
+2022-08-20,22:32:59,20,Uxxxx3956xxx,Port el kantaoui
+2022-08-20,07:53:45,50,Uxxxx0783xxx,Sousse
+2022-08-19,07:12:07,20,Rxxxx2323xxx,Sousse
+2022-08-18,14:21:15,50,Uxxxx6259xxx,Zarzis
+2022-08-18,14:20:55,50,Uxxxx4530xxx,Zarzis
+2022-08-18,14:20:37,50,Zxxxx7136xxx,Zarzis
+2022-08-18,14:19:42,50,Rxxxx0255xxx,Zarzis
+2022-08-18,14:19:11,50,Uxxxx8161xxx,Zarzis
+2022-08-18,14:17:39,50,Pxxxx3460xxx,Zarzis
+2022-08-18,14:14:47,5,Zxxxx0072xxx,Zarzis
+2022-08-18,14:14:07,5,Zxxxx8085xxx,Zarzis
+2022-08-18,14:13:42,5,Zxxxx8858xxx,Zarzis
+2022-08-18,07:38:33,20,Exxxx3202xxx,
+2022-08-17,07:45:25,5,Yxxxx4064xxx,
+2022-08-17,06:19:53,5,Zxxxx8053xxx,Zarzis
+2022-08-17,06:19:17,5,Wxxxx0504xxx,Zarzis
+2022-08-16,07:11:41,5,Nxxxx6573xxx,
+2022-08-15,21:07:17,5,Zxxxx7305xxx,Zarzis
+2022-08-15,21:06:10,5,Zxxxx9880xxx,Zarzis
+2022-08-15,19:59:41,5,Zxxxx0832xxx,Mellita
+2022-08-15,19:58:48,5,Zxxxx3291xxx,Mellita
+2022-08-15,07:55:01,10,Wxxxx5851xxx,
+2022-08-14,19:39:13,5,Vxxxx8313xxx,
+2022-08-14,08:56:48,20,Uxxxx6025xxx,Sousse
+2022-06-26,08:47:57,50,Pxxxx8223xxx,Hammamet
+2022-06-26,08:47:57,50,Exxxx9981xxx,Hammamet
+2022-06-24,10:15:01,50,Pxxxx6585xxx,Hammamet
+2022-06-24,09:59:39,50,Vxxxx4549xxx,Hammamet
+2022-06-24,09:59:39,20,Sxxxx7340xxx,Hammamet
+2022-05-02,11:01:20,10,Xxxxx1003xxx,Akouda
+2022-05-02,11:01:20,10,Yxxxx6419xxx,Akouda
+2022-05-02,11:01:20,10,Pxxxx8337xxx,Akouda
+2022-05-02,11:01:20,10,Wxxxx3299xxx,Akouda
+2022-05-02,11:01:20,10,Vxxxx9375xxx,Akouda
+2022-05-02,11:01:20,10,Vxxxx4956xxx,Akouda
+2022-05-02,11:01:20,5,Uxxxx8425xxx,Akouda
+2022-05-02,11:01:20,5,Yxxxx3973xxx,Akouda
+2022-02-01,12:45:58,10,Uxxxx7130xxx,Aéroport International de Tunis-Carthage
+2022-02-01,12:45:38,10,Xxxxx9351xxx,Aéroport International de Tunis-Carthage
+2022-02-01,12:45:20,10,Exxxx9323xxx,Aéroport International de Tunis-Carthage
+2022-02-01,12:44:59,10,Uxxxx0326xxx,Aéroport International de Tunis-Carthage
+2022-01-31,10:09:27,50,Uxxxx1016xxx,Aéroport International de Tunis-Carthage
+2022-01-31,10:07:42,20,Uxxxx1515xxx,Aéroport International de Tunis-Carthage
+2022-01-31,10:07:20,20,Zxxxx7699xxx,Aéroport International de Tunis-Carthage
+2022-01-17,08:02:43,50,Zxxxx5097xxx,Aéroport International de Tunis-Carthage
+2022-01-17,08:02:16,50,Uxxxx0070xxx,Aéroport International de Tunis-Carthage
+2022-01-12,14:56:04,10,Wxxxx6901xxx,Aéroport International de Tunis-Carthage
+2022-01-12,14:55:39,20,Xxxxx8397xxx,Aéroport International de Tunis-Carthage
+2022-01-12,14:55:15,20,Exxxx9212xxx,Aéroport International de Tunis-Carthage

@@ -168,6 +168,18 @@ Last tracked notes by denomination by country (outside eurozone):
 
 ![image](plots/non-eurozone-last.png)
 
+In the eurozone countries, only one country had a 500 euro note in the last notes, whereas
+it was more widespread in the summary data. Only four countries had a 200 euro note among the
+last notes, so it does not seem that the 200 euro note is replacing the 500 euro note in most
+countries in the eurozone. The 100 euro notes were still widespread in the last notes data,
+with significant numbers in Austria, Germany, Luxembourg, Lithuania, Slovakia and Slovenia.
+
+Outside of the eurozone countries, the frequency of 500 euro notes in the last notes seems to
+also have declined relative to the summary data over the past two decades. For the non-eurozone
+countries, the 200 euro note seems to have become much more prevalent in some countries, possibly as a
+replacement for the 500 euro note. The 100 euro notes are still widepread in countries such as
+Russia, as well as several non-eurozone eastern and southeastern European countries.
+
 ## Sources
 
 * [1] *Banknotes and coins circulation* (2022). European Central Bank (ECB).

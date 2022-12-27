@@ -30,7 +30,8 @@ to create the graphs and tables.
 ## Summary data
 
 The tables and plots show the Eurobilltracker denomination data by country over the past (roughly) 20 years.
-Only countries with more than 6000 notes entered (on average, roughly 300 per year) have been included.
+Only countries with more than 6000 notes entered (on average, roughly 300 per year) have been included. Data
+for countries inside and outside the eurozone is listed in separate tables and plots.
 
 |Country|5 euro|10 euro|20 euro|50 euro|100 euro|200 euro|500 euro|
 |-------|------|-------|-------|-------|--------|--------|--------|
@@ -89,6 +90,17 @@ Only countries with more than 6000 notes entered (on average, roughly 300 per ye
 
 ![image](plots/non-eurozone-summary.png)
 
+The data shows that high-denomination notes occur with low frequency (less than, say, 1.5% of observed
+notes) in some eurozone countries, including France, Ireland, Netherlands and Portugal. The frequencies
+for Germany and Belgium are slightly higher. Within the eurozone, Austria, Lithuania, Luxembourg, Slovakia
+and Slovenia stand out as countries with fairly high frequencies of high-denomination notes (up to roughly 8%).
+
+Some countries outside the Eurozone have a frequency distribution of high-denomination notes that is fairly
+similar to the eurozone countries. This is the case for Japan, Sweden, the United Kingdom and the United States.
+Other non-eurozone countries have relatively high frequencies for the high-denomination notes. The most extreme
+figures are those of Russia and Ukraine, where more than one in three observed notes is a high-denomination note.
+The Dominican Republic, China, Brazil, as well as various central European and southeast European countries outside
+the eurozone also have quite high rates for high-denomination notes, relative to the eurozone countries.
 
 ## Sources
 

@@ -70,7 +70,34 @@ def absolute_to_relative(data):
 
 
 def get_last_data(eurozone=True, minimum_observations = 300):
-    pass
+    last_files = glob("../../data/ebt-last-notes/*.*.csv")
+    country_data = dict()
+    eurozone_countries = get_eurozone_countries()
+    for last_file in last_files:
+        filename_parts = os.path.basename(last_file).split(".")
+        country = filename_parts[0]
+        timestamp = filename_parts[1]
+        num_observations = 0
+        observations = dict()
+
+        if (country in eurozone_countries) != eurozone:
+            continue
+
+        with open(last_file, "r") as infile:
+            reader = csv.DictReader(infile)
+            for row in reader:
+                denomination = row["Notetype"]
+                num_observations += 1
+                if denomination in observations:
+                    observations[denomination] += 1
+                else:
+                    observations[denomination] = 1
+
+        if num_observations >= minimum_observations:
+            observations["Total"] = num_observations
+            country_data[country] = observations
+
+    return country_data
 
 
 def get_color_dict():
@@ -83,7 +110,7 @@ def get_color_dict():
                "500": "purple" }
 
 
-def plot_summary_data(data, outfile, eurozone=True):
+def plot_data(data, outfile, title):
     countries = sorted(data.keys())
     color_dict = get_color_dict()
     plots = []
@@ -113,12 +140,14 @@ def plot_summary_data(data, outfile, eurozone=True):
             denom_data.append(data[country].get(denomination, 0))
         plot = plt.barh(countries, denom_data, color=color, left=lefts)
         plots.append(plot)
-    plt.title("Tracked notes by denomination by country " +
-              "(inside eurozone)" if eurozone else "(outside eurozone)")
+    plt.title(title)
     plt.legend(plots, denomination_labels, title="Denominations", loc="lower left")
     plt.tight_layout()
     plt.savefig(outfile)
     plt.clf()
+    print()
+    print(title +":")
+    print()
     print("|Country|5 euro|10 euro|20 euro|50 euro|100 euro|200 euro|500 euro|")
     print("|-------|------|-------|-------|-------|--------|--------|--------|")
     for country in sorted(countries):
@@ -130,9 +159,12 @@ def plot_summary_data(data, outfile, eurozone=True):
                 table_data["100"][country],
                 table_data["200"][country],
                 table_data["500"][country]))
-    print()
 
 eurozone_data = absolute_to_relative(get_summary_data(eurozone=True))
 nonez_data = absolute_to_relative(get_summary_data(eurozone=False))
-plot_summary_data(eurozone_data, "../../plots/eurozone-summary.png", True)
-plot_summary_data(nonez_data, "../../plots/non-eurozone-summary.png", False)
+plot_data(eurozone_data, "../../plots/eurozone-summary.png", "Tracked notes by denomination by country (inside eurozone)")
+plot_data(nonez_data, "../../plots/non-eurozone-summary.png","Tracked notes by denomination by country (outside eurozone)")
+eurozone_last_data = absolute_to_relative(get_last_data(eurozone=True))
+nonez_last_data = absolute_to_relative(get_last_data(eurozone=False))
+plot_data(eurozone_last_data, "../../plots/eurozone-last.png", "Last tracked notes by denomination by country (inside eurozone)")
+plot_data(nonez_last_data, "../../plots/non-eurozone-last.png","Last tracked notes by denomination by country (outside eurozone)")

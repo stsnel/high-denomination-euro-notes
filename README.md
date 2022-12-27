@@ -102,13 +102,78 @@ figures are those of Russia and Ukraine, where more than one in three observed n
 The Dominican Republic, China, Brazil, as well as various central European and southeast European countries outside
 the eurozone also have quite high rates for high-denomination notes, relative to the eurozone countries.
 
+## Last data
+
+The summary data covers a period of approximately 20 years. While this means a significant amount of data is available,
+resulting in more reliable figures, it is possible that the data does not reflect the usage patterns in the past
+year very well. For example, the 500 euro note is no longer being printed since 2019, and the number of notes in
+circulation has declined since then.
+
+This section contains the distribution of the past (roughly) 300 notes. Only countries with at least 300 observed notes in 2022
+have been included. This data is based on much fewer observations and thus less reliable, but is based on only recent
+data.
+
+Last tracked notes by denomination by country (inside eurozone):
+
+|Country|5 euro|10 euro|20 euro|50 euro|100 euro|200 euro|500 euro|
+|-------|------|-------|-------|-------|--------|--------|--------|
+|Austria|51.2|22.7|3.9|11.2|10.9|0|0|
+|Belgium|30.3|17.9|36.7|14.5|0.6|0|0|
+|Cyprus|19.1|14.5|39.4|23.9|1.8|1.2|0|
+|Estonia|64.2|14.2|10.0|11.5|0|0|0|
+|Finland|38.2|23.0|23.0|15.5|0|0.3|0|
+|France|35.2|42.1|18.5|4.2|0|0|0|
+|Germany|28.8|34.2|11.2|20.3|5.5|0|0|
+|Greece|30.9|20.6|28.5|19.1|0.9|0|0|
+|Ireland|48.8|19.7|14.8|16.4|0.3|0|0|
+|Italy|7.9|14.2|64.5|13.0|0.3|0|0|
+|Latvia|12.1|15.5|33.0|39.4|0|0|0|
+|Lithuania|28.5|31.5|30.3|9.1|0.6|0|0|
+|Luxembourg|29.4|21.5|29.1|14.8|5.2|0|0|
+|Malta|1.2|25.5|63.3|10.0|0|0|0|
+|Netherlands|39.1|21.2|16.4|22.4|0.6|0.3|0|
+|Portugal|18.8|53.3|25.5|1.8|0|0|0.6|
+|Slovakia|47.9|34.2|8.5|1.5|2.7|5.2|0|
+|Slovenia|17.3|26.7|22.7|25.5|7.9|0|0|
+|Spain|26.4|36.7|20.9|16.1|0|0|0|
+
+![image](plots/eurozone-last.png)
+
+Last tracked notes by denomination by country (outside eurozone):
+
+|Country|5 euro|10 euro|20 euro|50 euro|100 euro|200 euro|500 euro|
+|-------|------|-------|-------|-------|--------|--------|--------|
+|Albania|10.6|7.3|13.0|54.5|13.0|0.3|1.2|
+|Brazil|4.5|41.8|18.8|13.6|19.1|1.5|0.6|
+|Bulgaria|13.9|20.6|23.6|30.0|4.2|7.6|0|
+|Chile|0|0|0|100.0|0|0|0|
+|Croatia|14.5|27.3|19.7|19.7|12.4|6.1|0.3|
+|Cuba|26.1|37.0|29.7|7.3|0|0|0|
+|Czech Republic|33.0|25.2|14.8|19.4|7.6|0|0|
+|Denmark|43.6|5.5|33.3|16.4|0|0.9|0.3|
+|Hungary|78.8|2.4|3.9|5.8|7.9|1.2|0|
+|Japan|15.5|19.4|21.8|40.9|2.4|0|0|
+|Liechtenstein|79.4|5.8|6.1|5.2|3.6|0|0|
+|Montenegro|29.4|24.8|22.4|19.7|2.4|1.2|0|
+|Poland|9.1|17.6|21.5|29.7|20.3|1.5|0.3|
+|Romania|26.7|19.4|26.7|21.5|4.8|0.9|0|
+|Russia|1.8|6.4|3.0|16.4|58.8|13.3|0.3|
+|Serbia|1.5|4.8|4.8|71.5|6.1|10.3|0.9|
+|Sweden|13.3|15.8|59.1|10.9|0.3|0.6|0|
+|Switzerland|1.2|53.3|31.8|4.8|8.8|0|0|
+|Turkey|4.5|7.3|7.3|56.4|11.2|9.4|3.9|
+|Ukraine|11.5|6.1|0.6|81.8|0|0|0|
+|United Kingdom|4.8|7.0|76.4|10.9|0.9|0|0|
+|United States|61.5|10.6|14.5|13.0|0.3|0|0|
+
+![image](plots/non-eurozone-last.png)
+
 ## Sources
 
 * [1] *Banknotes and coins circulation* (2022). European Central Bank (ECB).
       https://www.ecb.europa.eu/stats/policy_and_exchange_rates/banknotes+coins/circulation/html/index.en.html
 * [2] *Bekendheid en Waardering Bankbiljetten* (2021). De Nederlandse Bank (DNB), in Dutch. Page 11.
       https://www.dnb.nl/media/xyldnnnt/bekendheid-en-waardering-bankbiljetten.pdf
-
 
 ## License
 

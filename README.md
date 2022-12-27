@@ -106,7 +106,7 @@ the eurozone also have quite high rates for high-denomination notes, relative to
 
 The summary data covers a period of approximately 20 years. While this means a significant amount of data is available,
 resulting in more reliable figures, it is possible that the data does not reflect the usage patterns in the past
-year very well. For example, the 500 euro note is no longer being printed since 2019, and the number of notes in
+year very well. For example, the 500 euro note is no longer being issued and distributed since 2019, and the number of notes in
 circulation has declined since then.
 
 This section contains the distribution of the past (roughly) 300 notes. Only countries with at least 300 observed notes in 2022

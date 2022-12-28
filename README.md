@@ -21,16 +21,18 @@ shops. In a 2021 survey, the Dutch national bank (DNB) found that a majority of 
 had never held a 200 euro note and/or a 500 euro note [2]. Although a majority had held a 100 euro
 note, most people did not have one in the past year.
 
-This begs the question where all of these high-denomination notes are, if people use them only
-rarely. This document uses data from https://eurobilltracker.com to show in which countries high-denomination
-euro banknotes are reportedly used most frequently, both relative to low-denomination notes and
-in absolute numbers. The repository also contains the processed data and scripts that were used
-to create the graphs and tables.
+This begs the question where all of these high-denomination notes are, if people seem to use them only
+rarely. An interesting source of information about this topic is https://eurobilltracker.com - a website where
+members can enter serial numbers of their euro banknotes. If multiple members see the same banknote, it
+is possible to track how the note travelled. This document uses data from EuroBillTracker to show in
+which countries high-denomination euro banknotes are reportedly used most frequently, both relative
+to low-denomination notes and in absolute numbers. The repository also contains the processed data
+and scripts that were used to create the graphs and tables.
 
 ## Summary data
 
 The tables and plots show the Eurobilltracker denomination data by country over the past (roughly) 20 years.
-Only countries with more than 6000 notes entered (on average, roughly 300 per year) have been included. Data
+Only countries with more than 6000 notes entered (on average, roughly 300 notes per year) have been included. Data
 for countries inside and outside the eurozone is listed in separate tables and plots.
 
 |Country|5 euro|10 euro|20 euro|50 euro|100 euro|200 euro|500 euro|
@@ -185,7 +187,11 @@ Russia, as well as several non-eurozone eastern and southeastern European countr
 Rather than consider the relative use of denominations within a country, we can also consider
 the distribution of high-denomination notes across countries.  All three high denominations show a similar
 pattern. Most notes are observed in Germany and Austria. The number of observations outside
-the eurozone is small relative to those within the eurozone countries.
+the eurozone is small relative to those within the eurozone countries, at roughly 2%. This figure seems to
+be mich lower than ECB estimates, which are that roughly 20 to 30% of all euro banknotes (by value) are held outside the
+eurozone [3,4]. The difference can at least partially be attributed to scope of the data, where Eurobilltracker data mainly
+is collected from consumers and small businesses, whereas ECB data is about all use (including, say, currency
+reserves).
 
 ![image](plots/ebt-absolute-100-euro.png)
 
@@ -193,12 +199,40 @@ the eurozone is small relative to those within the eurozone countries.
 
 ![image](plots/ebt-absolute-500-euro.png)
 
+# Conclusions
+
+Eurobilltracker data is not necessarily representative of how the population in general uses banknotes. For
+example, some Eurobilltracker members might prefer to use more low-denomination notes, so that they can enter
+more bills and potentially get more hits. It is also possible that (country) data is skewed by a small number of very
+prolific members. Furthermore, Eurobilltracker members probably represent mainly individual persons and small
+businesses, so banknotes stored by, say, banks are presumably not reflected in this data. Finally, it is not recorded
+whether Eurobilltrackers travel internationally with notes they received. For example, a Dutch member might withdraw
+a banknote in Germany, but spend it in the Netherlands. Because of these limitations, Eurobilltracker data needs to
+be considered together with other data sources.
+
+High-denomination euro banknotes seem to be used more often (relative to low-denomination banknotes) in some
+countries outside the eurozone, including Russia, China, Brazil and various central and southeast European countries.
+In most of these countries, the 100 euro notes are most common. The 500 euro note used to be the second-most common,
+but seems to be in the process of being replaced by the 200 euro note.
+
+Within the eurozone, 200 and 500 euro notes tend to be used very rarely, relative to the lower-denomination notes, and use
+of the 500 euro note seems to already have declined in the past few years. The use of 100 euro notes within the eurozone
+varies by country. Whereas these notes appear to be relatively rare in some countries, such as Ireland, The Netherlands and
+Portugal, they are more common in other countries, such as Austria, Germany, Slovakia and Slovenia.
+
+Roughly half of the high-denomination banknotes were observed in Austria and Germany. Most of the rest was observed
+in the other eurozone countries, with only roughly 2% observed outside the eurozone.
+
 ## Sources
 
 * [1] *Banknotes and coins circulation* (2022). European Central Bank (ECB).
       https://www.ecb.europa.eu/stats/policy_and_exchange_rates/banknotes+coins/circulation/html/index.en.html
 * [2] *Bekendheid en Waardering Bankbiljetten* (2021). De Nederlandse Bank (DNB), in Dutch. Page 11.
       https://www.dnb.nl/media/xyldnnnt/bekendheid-en-waardering-bankbiljetten.pdf
+* [3] *The euro - Issuance and circulation* (2022). European Central Bank (ECB).
+      https://www.ecb.europa.eu/euro/intro/issuance/html/index.en.html
+* [4] *Foreign demand for euro banknotes* (2021). European Central Bank (ECB).
+      https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op253~5a3d5de1d1.en.pdf
 
 ## License
 

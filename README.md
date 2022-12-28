@@ -180,6 +180,19 @@ countries, the 200 euro note seems to have become much more prevalent in some co
 replacement for the 500 euro note. The 100 euro notes are still widepread in countries such as
 Russia, as well as several non-eurozone eastern and southeastern European countries.
 
+## Percentage of notes by country / area
+
+Rather than consider the relative use of denominations within a country, we can also consider
+the distribution of high-denomination notes across countries.  All three high denominations show a similar
+pattern. Most notes are observed in Germany and Austria. The number of observations outside
+the eurozone is small relative to those within the eurozone countries.
+
+![image](plots/ebt-absolute-100-euro.png)
+
+![image](plots/ebt-absolute-200-euro.png)
+
+![image](plots/ebt-absolute-500-euro.png)
+
 ## Sources
 
 * [1] *Banknotes and coins circulation* (2022). European Central Bank (ECB).

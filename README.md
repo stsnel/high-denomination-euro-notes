@@ -4,6 +4,8 @@
 
 The euro has seven banknote denominations: 5, 10, 20, 50, 100, 200 and 500 euro.
 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Euro_banknotes%2C_First_series.png/198px-Euro_banknotes%2C_First_series.png)
+
 Official circulation data indicates that the 5, 10, 20, 50 and 100 euro notes are most common [1].
 The 200 and 500 euro notes are less common relative to the other denominations, but together
 they still make up roughly 3% of all Euro banknotes in circulation.
@@ -233,6 +235,9 @@ in the other eurozone countries, with only roughly 2% observed outside the euroz
       https://www.ecb.europa.eu/euro/intro/issuance/html/index.en.html
 * [4] *Foreign demand for euro banknotes* (2021). European Central Bank (ECB).
       https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op253~5a3d5de1d1.en.pdf
+
+The picture of the first series banknotes is in the public domain, see
+https://commons.wikimedia.org/wiki/File:Euro_banknotes,_First_series.png for source information.
 
 ## License
 

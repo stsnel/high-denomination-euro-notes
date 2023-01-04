@@ -33,7 +33,7 @@ and scripts that were used to create the graphs and tables.
 
 ## Summary data
 
-The tables and plots show the Eurobilltracker denomination data by country over the past (roughly) 20 years.
+The tables and plots show the Eurobilltracker denomination data by country over the past (roughly) 20 years (2002-2022).
 Only countries with more than 6000 notes entered (on average, roughly 300 notes per year) have been included. Data
 for countries inside and outside the eurozone is listed in separate tables and plots.
 

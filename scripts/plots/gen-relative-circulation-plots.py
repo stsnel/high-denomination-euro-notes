@@ -10,18 +10,20 @@ import os
 
 from matplotlib import pyplot as plt
 
-def get_eurozone_countries():
+def get_eurozone_countries(year):
     countries = [ "Andorra", "Austria", "Belgium", "Cyprus", "Estonia", "Finland", "France",
                   "Germany", "Greece", "Ireland", "Italy", "Latvia", "Lithuania",
                   "Luxembourg", "Malta", "Monaco", "Netherlands", "Portugal", "San Marino",
                   "Slovakia", "Slovenia", "Spain", "Vatican City" ]
+    if year >= 2023:
+        countries.append("Croatia")
     return set(countries)
 
 
-def get_summary_data(eurozone=True, minimum_observations = 6000):
+def get_summary_data(year, eurozone=True, minimum_observations = 6000):
     total_files = glob("../../data/ebt-summary/*.*.total.csv")
     country_data = dict()
-    eurozone_countries = get_eurozone_countries()
+    eurozone_countries = get_eurozone_countries(year)
     for total_file in total_files:
         filename_parts = os.path.basename(total_file).split(".")
         country = filename_parts[0]
@@ -69,10 +71,10 @@ def absolute_to_relative(data):
     return outdata
 
 
-def get_last_data(eurozone=True, minimum_observations = 300):
-    last_files = glob("../../data/ebt-last-notes/*.*.csv")
+def get_last_data(year, eurozone=True, minimum_observations = 300):
+    last_files = glob(f"../../data/ebt-last-notes-{year}/*.*.csv")
     country_data = dict()
-    eurozone_countries = get_eurozone_countries()
+    eurozone_countries = get_eurozone_countries(year)
     for last_file in last_files:
         filename_parts = os.path.basename(last_file).split(".")
         country = filename_parts[0]
@@ -160,11 +162,15 @@ def plot_data(data, outfile, title):
                 table_data["200"][country],
                 table_data["500"][country]))
 
-eurozone_data = absolute_to_relative(get_summary_data(eurozone=True))
-nonez_data = absolute_to_relative(get_summary_data(eurozone=False))
+eurozone_data = absolute_to_relative(get_summary_data(2022, eurozone=True))
+nonez_data = absolute_to_relative(get_summary_data(2022, eurozone=False))
 plot_data(eurozone_data, "../../plots/eurozone-summary.png", "Tracked notes by denomination by country (inside eurozone)")
 plot_data(nonez_data, "../../plots/non-eurozone-summary.png","Tracked notes by denomination by country (outside eurozone)")
-eurozone_last_data = absolute_to_relative(get_last_data(eurozone=True))
-nonez_last_data = absolute_to_relative(get_last_data(eurozone=False))
-plot_data(eurozone_last_data, "../../plots/eurozone-last.png", "Last tracked notes by denomination by country (inside eurozone)")
-plot_data(nonez_last_data, "../../plots/non-eurozone-last.png","Last tracked notes by denomination by country (outside eurozone)")
+
+for year in [2022,2023]:
+    eurozone_last_data = absolute_to_relative(get_last_data(year, eurozone=True))
+    nonez_last_data = absolute_to_relative(get_last_data(year, eurozone=False))
+    plot_data(eurozone_last_data, f"../../plots/eurozone-last-{year}.png",
+              f"Last tracked notes by denomination by country (inside eurozone), {year}")
+    plot_data(nonez_last_data, f"../../plots/non-eurozone-last-{year}.png",
+              f"Last tracked notes by denomination by country (outside eurozone), {year}")

@@ -1,13 +1,21 @@
 #!/usr/bin/env python3
 
-"""Downloads data of last (up to) 330 banknotes entered in 2022 for each country from EuroBillTracker.com
+"""Downloads data of last (up to) 330 banknotes entered in the last year for each country from EuroBillTracker.com
 """
 
+import argparse
 import csv
 import datetime
 import re
 import requests
 import time
+
+def parse_args():
+    parser = argparse.ArgumentParser(
+        description=__doc__)
+    parser.add_argument('--year', default=2023, type=int,
+                        help="Cut off year (notes that were seen before this year are discarded)")
+    return parser.parse_args()
 
 def get_request(endpoint):
     headers = { "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" }
@@ -23,6 +31,7 @@ def get_countries():
             countries.append(match.group(1))
     return [ country for country in countries if "---" not in country ]
 
+args = parse_args()
 countries = get_countries()
 timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
 
@@ -55,6 +64,6 @@ for country in countries:
                 if match_locality:
                     data["Locality"] = match_locality.group(1)
                 print(str(data))
-                if last_year < 2022:
+                if last_year < args.year:
                     break
                 writer.writerow(data)

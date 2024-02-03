@@ -141,7 +141,7 @@ Last tracked notes by denomination by country (inside eurozone):
 |Slovenia|17.3|26.7|22.7|25.5|7.9|0|0|
 |Spain|26.4|36.7|20.9|16.1|0|0|0|
 
-![image](plots/eurozone-last.png)
+![image](plots/eurozone-last-2022.png)
 
 Last tracked notes by denomination by country (outside eurozone):
 
@@ -170,7 +170,7 @@ Last tracked notes by denomination by country (outside eurozone):
 |United Kingdom|4.8|7.0|76.4|10.9|0.9|0|0|
 |United States|61.5|10.6|14.5|13.0|0.3|0|0|
 
-![image](plots/non-eurozone-last.png)
+![image](plots/non-eurozone-last-2022.png)
 
 In the eurozone countries, only one country had a 500 euro note in the last notes, whereas
 it was more widespread in the summary data. Only four countries had a 200 euro note among the

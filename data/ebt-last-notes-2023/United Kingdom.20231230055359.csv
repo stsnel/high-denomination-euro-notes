@@ -1,0 +1,331 @@
+Date,Time,Notetype,Maskedserial,Locality
+2023-12-29,15:05:24,5,Nxxxx1371xxx,Southampton
+2023-12-27,01:11:39,20,Fxxxx8618xxx,Cardiff
+2023-12-27,01:11:39,20,Rxxxx9561xxx,Cardiff
+2023-12-27,01:11:39,10,Rxxxx5270xxx,Cardiff
+2023-12-27,01:11:39,10,Rxxxx5270xxx,Cardiff
+2023-12-27,01:11:39,5,Uxxxx2400xxx,Cardiff
+2023-12-27,01:11:39,5,Uxxxx2400xxx,Cardiff
+2023-12-27,01:11:39,5,Uxxxx2400xxx,Cardiff
+2023-12-27,01:11:39,5,Uxxxx2400xxx,Cardiff
+2023-12-27,00:52:58,5,Uxxxx2400xxx,Cardiff
+2023-12-27,00:52:58,5,Uxxxx2400xxx,Cardiff
+2023-12-27,00:42:18,5,Uxxxx2400xxx,Cardiff
+2023-12-23,14:29:30,10,Pxxxx6666xxx,Oxford
+2023-12-23,14:27:45,10,Pxxxx1132xxx,Andover - Mullens Pond - Sainsburyshire - Londres
+2023-12-23,14:27:45,20,Mxxxx7261xxx,Andover - Mullens Pond - Sainsburyshire - Londres
+2023-12-23,14:24:52,20,Mxxxx5614xxx,Stevenage - Hertfordshire - Londres
+2023-12-23,14:24:52,20,Mxxxx4171xxx,Stevenage - Hertfordshire - Londres
+2023-12-23,14:22:43,20,Exxxx0304xxx,Borehamwood - Londres
+2023-12-23,14:21:56,10,Rxxxx7102xxx,Borehamwood - Londres
+2023-12-23,14:18:24,10,Wxxxx7235xxx,Stonehendge - Salisbury
+2023-12-23,14:18:24,10,Wxxxx7554xxx,Stonehendge - Salisbury
+2023-12-23,14:16:45,10,Wxxxx0848xxx,Stonehendge - Salisbury
+2023-12-23,14:15:54,20,Uxxxx0041xxx,Stonehendge - Salisbury
+2023-12-23,14:13:16,20,Rxxxx0827xxx,Cambridge
+2023-12-23,14:13:16,20,Mxxxx4995xxx,Cambridge
+2023-12-23,14:11:23,20,Mxxxx2686xxx,Standsted - Londres
+2023-12-23,14:11:23,20,Exxxx2640xxx,Standsted - Londres
+2023-12-23,14:09:26,20,Uxxxx7727xxx,Stirling - Londres
+2023-12-23,14:09:26,20,Uxxxx0469xxx,Stirling - Londres
+2023-12-23,14:07:33,20,Rxxxx3756xxx,Mill Hill - Londres
+2023-12-23,14:07:33,20,Rxxxx4233xxx,Mill Hill - Londres
+2023-12-23,14:05:28,20,Fxxxx4919xxx,Edgware - Londres
+2023-12-23,14:05:28,20,Exxxx7008xxx,Edgware - Londres
+2023-12-23,14:02:20,20,Exxxx8563xxx,Londres - Hyde Park
+2023-12-23,14:02:20,20,Exxxx1871xxx,Londres - Hyde Park
+2023-12-23,11:22:14,10,Nxxxx0761xxx,Waltham Abbey
+2023-12-23,11:22:00,50,Exxxx0396xxx,Waltham Abbey
+2023-12-23,11:01:09,20,Exxxx1887xxx,Waltham Abbey
+2023-12-23,11:01:09,20,Exxxx6841xxx,Waltham Abbey
+2023-12-23,11:01:09,20,Uxxxx9246xxx,Waltham Abbey
+2023-12-23,11:00:38,10,Wxxxx1210xxx,Waltham Abbey
+2023-12-23,11:00:23,100,Exxxx9659xxx,Waltham Abbey
+2023-12-23,11:00:06,50,Uxxxx0012xxx,Waltham Abbey
+2023-12-23,10:59:39,5,Uxxxx5763xxx,Waltham Abbey
+2023-12-22,20:48:22,20,Nxxxx6680xxx,Hounslow
+2023-12-20,02:18:48,10,Wxxxx6290xxx,Scarborough
+2023-12-20,02:16:25,5,Nxxxx2902xxx,Scarborough
+2023-12-20,02:13:20,20,Sxxxx9254xxx,Scarborough
+2023-12-17,20:46:57,50,Uxxxx4787xxx,Stockport
+2023-12-17,15:21:45,10,Wxxxx4692xxx,Stockport
+2023-12-17,15:19:36,50,Pxxxx8063xxx,Stockport
+2023-12-17,15:19:03,50,Uxxxx9119xxx,Stockport
+2023-12-17,15:18:34,50,Rxxxx6371xxx,Stockport
+2023-12-17,15:18:01,50,Uxxxx8105xxx,Stockport
+2023-12-17,15:17:24,200,Uxxxx5540xxx,Stockport
+2023-12-16,14:44:01,200,Uxxxx5811xxx,Waltham Abbey
+2023-12-16,14:44:01,200,Uxxxx2137xxx,Waltham Abbey
+2023-12-16,14:44:01,200,Exxxx5236xxx,Waltham Abbey
+2023-12-16,14:44:01,200,Exxxx7350xxx,Waltham Abbey
+2023-12-16,14:44:01,200,Exxxx5267xxx,Waltham Abbey
+2023-12-15,09:12:30,5,Uxxxx7162xxx,Aberdeen
+2023-12-15,09:12:30,20,Rxxxx4584xxx,Aberdeen
+2023-12-15,09:12:30,5,Wxxxx0302xxx,Aberdeen
+2023-12-13,19:39:28,10,Wxxxx7284xxx,Blidworth
+2023-12-13,15:36:37,20,Nxxxx0353xxx,London
+2023-12-13,15:36:28,20,Nxxxx0353xxx,London
+2023-12-13,15:36:14,20,Nxxxx0353xxx,London
+2023-12-13,15:35:59,20,Nxxxx0353xxx,London
+2023-12-13,15:35:46,20,Nxxxx0353xxx,London
+2023-12-13,15:35:36,20,Nxxxx0353xxx,London
+2023-12-13,15:35:24,20,Nxxxx0353xxx,London
+2023-12-13,15:35:14,20,Nxxxx0353xxx,London
+2023-12-11,18:20:58,20,Uxxxx9983xxx,Waltham Abbey
+2023-12-11,15:44:18,5,Exxxx2722xxx,Waltham Abbey
+2023-12-11,15:44:06,50,Rxxxx9250xxx,Waltham Abbey
+2023-12-11,15:44:06,50,Rxxxx4801xxx,Waltham Abbey
+2023-12-11,15:44:06,50,Vxxxx9098xxx,Waltham Abbey
+2023-12-11,15:44:06,50,Sxxxx7231xxx,Waltham Abbey
+2023-12-09,12:06:40,5,Mxxxx5988xxx,Kingston upon Hull
+2023-12-09,12:06:07,5,Mxxxx8720xxx,Leeds
+2023-12-09,12:05:35,5,Mxxxx0735xxx,Manchester
+2023-12-09,12:04:54,5,Exxxx2915xxx,Liverpool
+2023-12-09,12:04:15,5,Exxxx2724xxx,Bushmills
+2023-12-09,12:03:41,5,Exxxx9449xxx,Belfast
+2023-12-06,16:57:43,100,Vxxxx5680xxx,Waltham Abbey
+2023-12-06,13:59:17,20,Uxxxx7807xxx,Waltham Abbey
+2023-12-05,15:51:11,20,Uxxxx9879xxx,Waltham Abbey
+2023-12-04,14:13:21,5,Sxxxx3987xxx,Waltham Abbey
+2023-12-04,14:13:21,5,Nxxxx8933xxx,Waltham Abbey
+2023-12-04,14:13:03,10,Nxxxx6000xxx,Waltham Abbey
+2023-12-04,14:12:31,50,Yxxxx5997xxx,Waltham Abbey
+2023-12-04,14:12:31,50,Rxxxx4172xxx,Waltham Abbey
+2023-12-04,14:12:31,50,Exxxx0651xxx,Waltham Abbey
+2023-12-04,14:12:31,50,Pxxxx6068xxx,Waltham Abbey
+2023-12-04,14:12:31,50,Sxxxx2465xxx,Waltham Abbey
+2023-12-04,14:12:31,50,Exxxx9154xxx,Waltham Abbey
+2023-12-03,21:41:16,20,Exxxx7867xxx,Glasgow
+2023-12-03,21:40:42,10,Wxxxx1285xxx,Glasgow
+2023-12-03,21:40:21,10,Wxxxx1285xxx,Glasgow
+2023-12-03,21:39:53,10,Wxxxx1285xxx,Glasgow
+2023-12-03,21:39:21,10,Wxxxx1285xxx,Glasgow
+2023-11-30,15:03:03,20,Uxxxx5394xxx,Cheshunt
+2023-11-29,16:52:29,5,Vxxxx8620xxx,Cheshunt
+2023-11-29,16:52:29,5,Uxxxx2468xxx,Cheshunt
+2023-11-29,16:52:08,10,Nxxxx2542xxx,Cheshunt
+2023-11-27,16:35:43,10,Nxxxx8697xxx,Waltham Abbey
+2023-11-27,16:35:20,20,Fxxxx8080xxx,Waltham Abbey
+2023-11-27,16:35:20,20,Sxxxx9419xxx,Waltham Abbey
+2023-11-27,16:35:20,20,Sxxxx8589xxx,Waltham Abbey
+2023-11-27,16:35:20,20,Sxxxx8589xxx,Waltham Abbey
+2023-11-27,16:35:20,20,Exxxx3330xxx,Waltham Abbey
+2023-11-27,16:35:20,20,Exxxx6280xxx,Waltham Abbey
+2023-11-27,12:46:12,20,Exxxx2028xxx,Waltham Abbey
+2023-11-27,12:46:12,5,Mxxxx6851xxx,Waltham Abbey
+2023-11-27,12:46:12,10,Rxxxx5651xxx,Waltham Abbey
+2023-11-27,12:46:12,50,Exxxx0476xxx,Waltham Abbey
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6007xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,10,Nxxxx6008xxx,London Heathrow Airport
+2023-11-26,19:02:51,50,Uxxxx3888xxx,London Heathrow Airport
+2023-11-25,14:47:32,100,Wxxxx7704xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx8982xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx0822xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx3607xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx4080xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Rxxxx0886xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Wxxxx6242xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Wxxxx3608xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Rxxxx1674xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Rxxxx1766xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Rxxxx8080xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Rxxxx4089xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Wxxxx0080xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Wxxxx1419xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx7480xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx6957xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Rxxxx3415xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx8802xxx,Waltham Abbey
+2023-11-25,14:47:32,100,Exxxx1374xxx,Waltham Abbey
+2023-11-25,14:44:50,200,Uxxxx4681xxx,Waltham Abbey
+2023-11-25,14:44:50,200,Uxxxx2486xxx,Waltham Abbey
+2023-11-25,14:44:50,200,Uxxxx2486xxx,Waltham Abbey
+2023-11-25,14:44:19,5,Vxxxx4275xxx,Waltham Abbey
+2023-11-25,14:44:19,10,Nxxxx4470xxx,Waltham Abbey
+2023-11-25,12:40:31,5,Nxxxx7909xxx,Waltham Abbey
+2023-11-25,12:40:31,5,Zxxxx6563xxx,Waltham Abbey
+2023-11-25,12:40:31,5,Mxxxx9163xxx,Waltham Abbey
+2023-11-25,12:40:31,5,Nxxxx4876xxx,Waltham Abbey
+2023-11-25,12:39:56,10,Rxxxx6408xxx,Waltham Abbey
+2023-11-25,12:39:56,10,Wxxxx6675xxx,Waltham Abbey
+2023-11-25,12:39:56,10,Nxxxx9506xxx,Waltham Abbey
+2023-11-24,13:38:19,50,Sxxxx5921xxx,Waltham Abbey
+2023-11-24,13:38:19,50,Wxxxx5934xxx,Waltham Abbey
+2023-11-24,13:38:19,50,Xxxxx8209xxx,Waltham Abbey
+2023-11-24,13:38:19,50,Sxxxx9243xxx,Waltham Abbey
+2023-11-24,13:37:47,100,Wxxxx2374xxx,Waltham Abbey
+2023-11-24,13:37:37,200,Sxxxx5734xxx,Waltham Abbey
+2023-11-24,13:36:56,5,Exxxx7660xxx,Waltham Abbey
+2023-11-24,13:36:56,20,Exxxx6478xxx,Waltham Abbey
+2023-11-24,13:36:56,20,Uxxxx3121xxx,Waltham Abbey
+2023-11-24,13:36:56,50,Rxxxx3412xxx,Waltham Abbey
+2023-11-23,15:37:05,50,Exxxx1802xxx,Waltham Abbey
+2023-11-23,15:36:53,10,Nxxxx7189xxx,Waltham Abbey
+2023-11-23,12:41:58,50,Rxxxx3249xxx,Waltham Abbey
+2023-11-23,12:41:45,20,Sxxxx1918xxx,Waltham Abbey
+2023-11-23,12:41:28,10,Vxxxx8622xxx,Waltham Abbey
+2023-11-23,12:41:16,5,Nxxxx3967xxx,Waltham Abbey
+2023-11-22,18:49:40,10,Sxxxx7437xxx,London
+2023-11-22,18:49:40,20,Rxxxx7428xxx,London
+2023-11-22,18:49:40,50,Uxxxx1999xxx,London
+2023-11-22,18:49:40,50,Zxxxx7001xxx,London
+2023-11-22,18:49:40,50,Uxxxx9477xxx,London
+2023-11-22,18:49:40,50,Sxxxx2058xxx,London
+2023-11-22,18:49:40,50,Uxxxx2300xxx,London
+2023-11-22,18:49:40,50,Uxxxx9081xxx,London
+2023-11-22,18:49:40,50,Uxxxx8067xxx,London
+2023-11-22,18:49:40,50,Uxxxx4935xxx,London
+2023-11-22,18:49:40,50,Uxxxx6963xxx,London
+2023-11-22,18:43:57,50,Uxxxx6845xxx,London
+2023-11-22,18:43:57,50,Uxxxx9980xxx,London
+2023-11-22,18:43:57,50,Uxxxx9535xxx,London
+2023-11-22,18:43:57,50,Uxxxx7558xxx,London
+2023-11-22,18:43:57,50,Uxxxx2787xxx,London
+2023-11-22,18:43:57,50,Uxxxx7932xxx,London
+2023-11-22,18:43:57,50,Uxxxx8093xxx,London
+2023-11-22,18:43:57,50,Uxxxx4155xxx,London
+2023-11-22,18:43:57,50,Uxxxx5778xxx,London
+2023-11-22,18:43:57,50,Uxxxx1564xxx,London
+2023-11-22,18:43:57,50,Rxxxx7997xxx,London
+2023-11-22,18:43:57,50,Vxxxx5703xxx,London
+2023-11-22,18:37:24,50,Vxxxx9306xxx,London
+2023-11-22,18:37:24,50,Uxxxx2498xxx,London
+2023-11-22,18:37:24,50,Vxxxx9608xxx,London
+2023-11-22,18:37:24,50,Uxxxx6649xxx,London
+2023-11-22,18:37:24,50,Uxxxx6653xxx,London
+2023-11-22,18:37:24,50,Uxxxx3453xxx,London
+2023-11-22,18:37:24,50,Uxxxx9794xxx,London
+2023-11-22,18:37:24,50,Exxxx4032xxx,London
+2023-11-22,18:37:24,50,Zxxxx5612xxx,London
+2023-11-22,18:37:24,50,Rxxxx7059xxx,London
+2023-11-22,18:37:24,50,Uxxxx5402xxx,London
+2023-11-22,18:37:24,50,Vxxxx9813xxx,London
+2023-11-22,18:30:55,50,Uxxxx2333xxx,London
+2023-11-22,18:30:55,50,Uxxxx8874xxx,London
+2023-11-22,18:30:55,50,Uxxxx8885xxx,London
+2023-11-22,18:30:55,50,Uxxxx4347xxx,London
+2023-11-22,18:30:55,50,Vxxxx9685xxx,London
+2023-11-22,18:30:55,50,Uxxxx8968xxx,London
+2023-11-22,18:30:55,50,Vxxxx6817xxx,London
+2023-11-22,18:30:55,50,Zxxxx1953xxx,London
+2023-11-22,18:30:55,50,Uxxxx4838xxx,London
+2023-11-22,18:30:55,50,Uxxxx3096xxx,London
+2023-11-22,18:30:55,50,Uxxxx2538xxx,London
+2023-11-22,18:30:55,50,Uxxxx2163xxx,London
+2023-11-22,18:24:00,50,Vxxxx7694xxx,London
+2023-11-22,18:24:00,50,Uxxxx2648xxx,London
+2023-11-22,18:24:00,50,Sxxxx4428xxx,London
+2023-11-22,18:24:00,50,Uxxxx6189xxx,London
+2023-11-22,18:20:55,50,Uxxxx0351xxx,London
+2023-11-22,18:20:55,50,Uxxxx3089xxx,London
+2023-11-22,18:20:55,50,Uxxxx3868xxx,London
+2023-11-22,18:20:55,50,Uxxxx3102xxx,London
+2023-11-22,18:20:55,50,Rxxxx6302xxx,London
+2023-11-22,18:20:55,50,Uxxxx9570xxx,London
+2023-11-22,18:20:55,50,Uxxxx1203xxx,London
+2023-11-22,18:20:55,50,Uxxxx2405xxx,London
+2023-11-22,18:20:55,50,Uxxxx0555xxx,London
+2023-11-22,18:20:55,50,Wxxxx2377xxx,London
+2023-11-22,18:20:55,50,Uxxxx5363xxx,London
+2023-11-22,18:20:55,50,Uxxxx1574xxx,London
+2023-11-22,18:15:16,50,Pxxxx2264xxx,London
+2023-11-22,18:15:16,50,Vxxxx0213xxx,London
+2023-11-22,18:15:16,50,Vxxxx3997xxx,London
+2023-11-22,18:15:16,50,Vxxxx6423xxx,London
+2023-11-22,18:15:16,50,Vxxxx6285xxx,London
+2023-11-22,18:15:16,50,Exxxx8258xxx,London
+2023-11-22,18:15:16,50,Pxxxx4012xxx,London
+2023-11-20,14:03:40,10,Rxxxx1333xxx,Waltham Abbey
+2023-11-20,14:03:40,10,Rxxxx1333xxx,Waltham Abbey
+2023-11-20,14:03:40,10,Wxxxx7572xxx,Waltham Abbey
+2023-11-20,14:03:40,10,Wxxxx7572xxx,Waltham Abbey
+2023-11-20,13:11:06,10,Exxxx1450xxx,Waltham Abbey
+2023-11-20,13:11:06,10,Pxxxx8171xxx,Waltham Abbey
+2023-11-20,13:10:36,5,Uxxxx2055xxx,Waltham Abbey
+2023-11-20,12:10:51,100,Sxxxx9816xxx,Waltham Abbey
+2023-11-19,12:42:46,5,Wxxxx5864xxx,Cheshunt
+2023-11-19,12:35:19,20,Rxxxx2073xxx,Cheshunt
+2023-11-17,17:37:28,20,Nxxxx2090xxx,Waltham Abbey
+2023-11-16,16:35:58,10,Uxxxx5663xxx,Waltham Abbey
+2023-11-14,09:36:50,10,Wxxxx4773xxx,Cheshunt
+2023-11-13,18:21:37,5,Mxxxx5222xxx,Glasgow
+2023-11-13,18:21:37,10,Vxxxx2225xxx,Glasgow
+2023-11-13,18:21:37,20,Uxxxx8264xxx,Glasgow
+2023-11-13,18:21:37,20,Rxxxx3598xxx,Glasgow
+2023-11-13,17:22:36,5,Nxxxx9944xxx,Road Town
+2023-11-13,15:45:37,50,Uxxxx8593xxx,Waltham Abbey
+2023-11-13,15:45:37,50,Rxxxx3231xxx,Waltham Abbey
+2023-11-13,15:45:37,50,Sxxxx6799xxx,Waltham Abbey
+2023-11-13,15:45:09,20,Sxxxx2866xxx,Waltham Abbey
+2023-11-13,15:45:09,20,Sxxxx2667xxx,Waltham Abbey
+2023-11-13,15:45:09,20,Sxxxx4152xxx,Waltham Abbey
+2023-11-13,15:45:09,20,Uxxxx5802xxx,Waltham Abbey
+2023-11-13,15:44:27,10,Wxxxx3375xxx,Waltham Abbey
+2023-11-13,15:44:27,10,Rxxxx4742xxx,Waltham Abbey
+2023-11-13,08:48:15,50,Vxxxx8459xxx,Burgess Hill
+2023-11-13,08:44:20,50,Rxxxx7709xxx,London
+2023-11-12,21:29:41,50,Uxxxx8723xxx,Baildon
+2023-11-12,21:29:41,50,Uxxxx8133xxx,Baildon
+2023-11-11,22:05:50,5,Nxxxx1564xxx,London
+2023-11-11,22:05:50,10,Wxxxx1337xxx,London
+2023-11-11,22:05:50,10,Vxxxx2793xxx,London
+2023-11-11,22:05:50,20,Mxxxx7700xxx,London
+2023-11-11,22:05:50,20,Uxxxx1451xxx,London
+2023-11-11,22:05:50,10,Mxxxx1085xxx,London
+2023-11-10,23:14:05,5,Zxxxx8341xxx,Road Town
+2023-11-10,23:14:05,5,Vxxxx9116xxx,Road Town
+2023-11-10,23:14:05,5,Mxxxx4991xxx,Road Town
+2023-11-10,23:14:05,5,Nxxxx2695xxx,Road Town
+2023-11-10,23:14:05,5,Nxxxx6748xxx,Road Town
+2023-11-10,23:14:05,5,Nxxxx9451xxx,Road Town
+2023-11-10,23:14:05,5,Wxxxx5130xxx,Road Town
+2023-11-10,23:14:05,5,Vxxxx6935xxx,Road Town
+2023-11-10,23:14:05,5,Mxxxx1605xxx,Road Town
+2023-11-10,23:14:05,5,Vxxxx1918xxx,Road Town
+2023-11-10,23:14:05,5,Mxxxx1177xxx,Road Town
+2023-11-10,23:14:05,5,Mxxxx1406xxx,Road Town
+2023-11-10,23:14:05,5,Exxxx3434xxx,Road Town
+2023-11-10,23:14:05,5,Nxxxx2406xxx,Road Town
+2023-11-10,23:14:05,5,Mxxxx3422xxx,Road Town
+2023-11-10,16:14:29,50,Uxxxx9245xxx,Birmingham
+2023-11-10,16:14:29,50,Vxxxx4770xxx,Birmingham
+2023-11-10,16:14:29,50,Uxxxx5709xxx,Birmingham
+2023-11-10,16:14:29,50,Uxxxx0443xxx,Birmingham
+2023-11-10,16:14:29,50,Uxxxx6194xxx,Birmingham
+2023-11-10,16:11:38,20,Exxxx2874xxx,Birmingham
+2023-11-10,16:11:38,20,Uxxxx8753xxx,Birmingham
+2023-11-10,16:11:38,20,Vxxxx7512xxx,Birmingham
+2023-11-10,16:11:38,20,Uxxxx2915xxx,Birmingham
+2023-11-10,16:11:38,20,Uxxxx8644xxx,Birmingham
+2023-11-10,16:11:38,20,Sxxxx2787xxx,Birmingham
+2023-11-10,13:53:12,10,Nxxxx4564xxx,Cheshunt
+2023-11-10,13:53:12,5,Vxxxx9223xxx,Cheshunt
+2023-11-10,11:04:48,5,Mxxxx3492xxx,Road Town
+2023-11-10,10:24:12,10,Fxxxx6605xxx,Cheshunt
+2023-11-10,10:24:12,5,Vxxxx8782xxx,Cheshunt
+2023-11-09,21:29:10,10,Rxxxx8136xxx,Salford
+2023-11-09,21:29:10,10,Rxxxx8136xxx,Salford
+2023-11-09,21:29:10,10,Rxxxx8136xxx,Salford
+2023-11-09,21:29:10,10,Rxxxx8406xxx,Salford
+2023-11-09,21:29:10,10,Rxxxx8406xxx,Salford

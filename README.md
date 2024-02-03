@@ -184,6 +184,8 @@ countries, the 200 euro note seems to have become much more prevalent in some co
 replacement for the 500 euro note. The 100 euro notes are still widepread in countries such as
 Russia, as well as several non-eurozone eastern and southeastern European countries.
 
+(Update February 2024: [new last note data for 2023](update-2023.md))
+
 ## Percentage of notes by country / area
 
 Rather than consider the relative use of denominations within a country, we can also consider

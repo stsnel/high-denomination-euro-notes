@@ -188,6 +188,8 @@ Russia, as well as several non-eurozone eastern and southeastern European countr
 
 (Update December 2024: [new last note data for 2024](update-2024.md))
 
+(Update December 2025: [new last note data for 2025](update-2025.md))
+
 ## Percentage of notes by country / area
 
 Rather than consider the relative use of denominations within a country, we can also consider

@@ -167,7 +167,7 @@ nonez_data = absolute_to_relative(get_summary_data(2022, eurozone=False))
 plot_data(eurozone_data, "../../plots/eurozone-summary.png", "Tracked notes by denomination by country (inside eurozone)")
 plot_data(nonez_data, "../../plots/non-eurozone-summary.png","Tracked notes by denomination by country (outside eurozone)")
 
-for year in [2022,2023,2024]:
+for year in [2022,2023,2024,2025]:
     eurozone_last_data = absolute_to_relative(get_last_data(year, eurozone=True))
     nonez_last_data = absolute_to_relative(get_last_data(year, eurozone=False))
     plot_data(eurozone_last_data, f"../../plots/eurozone-last-{year}.png",

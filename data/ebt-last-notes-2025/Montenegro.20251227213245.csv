@@ -1,0 +1,331 @@
+Date,Time,Notetype,Maskedserial,Locality
+2025-12-27,16:39:40,50,Sxxxx7699xxx,Kotor
+2025-12-23,11:22:49,5,Zxxxx6318xxx,Bar
+2025-12-23,11:22:49,10,Vxxxx3446xxx,Bar
+2025-12-23,11:22:49,10,Wxxxx2704xxx,Bar
+2025-12-23,11:22:49,20,Sxxxx5570xxx,Bar
+2025-12-04,16:52:11,5,Exxxx5348xxx,Herceg Novi
+2025-12-04,16:52:11,5,Nxxxx5222xxx,Herceg Novi
+2025-12-04,16:52:11,10,Nxxxx2897xxx,Herceg Novi
+2025-12-04,16:52:11,10,Rxxxx1844xxx,Herceg Novi
+2025-12-04,16:47:56,10,Vxxxx4637xxx,Herceg Novi
+2025-12-04,16:46:45,20,Exxxx0600xxx,Herceg Novi
+2025-12-04,16:45:16,20,Exxxx9804xxx,Herceg Novi
+2025-12-01,12:08:25,5,Vxxxx9835xxx,Bar
+2025-12-01,12:08:25,20,Rxxxx2491xxx,Bar
+2025-12-01,12:08:25,20,Uxxxx1180xxx,Bar
+2025-11-29,17:54:27,50,Exxxx4526xxx,Herceg Novi
+2025-11-29,17:53:51,50,Uxxxx8222xxx,Herceg Novi
+2025-11-29,17:52:56,50,Rxxxx0862xxx,Herceg Novi
+2025-11-29,17:52:08,50,Rxxxx5260xxx,Herceg Novi
+2025-11-29,17:51:20,50,Rxxxx0475xxx,Herceg Novi
+2025-11-29,17:50:24,50,Rxxxx0875xxx,Herceg Novi
+2025-11-29,17:49:27,500,Xxxxx6922xxx,Herceg Novi
+2025-11-29,17:44:50,50,Vxxxx2333xxx,Herceg Novi
+2025-11-29,17:43:48,50,Exxxx9425xxx,Herceg Novi
+2025-11-27,21:04:42,5,Vxxxx6935xxx,Bar
+2025-11-21,11:16:26,5,Zxxxx9925xxx,Bar
+2025-11-17,12:26:30,5,Nxxxx6240xxx,Kotor
+2025-11-17,12:26:30,10,Rxxxx2495xxx,Kotor
+2025-11-17,12:26:30,20,Exxxx5485xxx,Kotor
+2025-11-17,12:18:17,10,Rxxxx9191xxx,Budva
+2025-11-17,12:18:17,5,Nxxxx5229xxx,Budva
+2025-11-16,16:58:06,10,Wxxxx4845xxx,Bar
+2025-11-16,16:58:06,10,Pxxxx1276xxx,Bar
+2025-11-16,16:58:06,10,Nxxxx4794xxx,Bar
+2025-11-16,16:58:06,20,Uxxxx7448xxx,Bar
+2025-11-16,16:58:06,20,Sxxxx8415xxx,Bar
+2025-10-23,17:13:30,5,Txxxx8488xxx,Kotor
+2025-10-23,17:12:50,5,Yxxxx8431xxx,Kotor
+2025-10-23,17:12:05,5,Yxxxx8431xxx,Kotor
+2025-10-22,15:23:09,5,Xxxxx3638xxx,Tibat
+2025-10-22,15:22:13,100,Xxxxx8697xxx,Tibat
+2025-10-22,15:21:01,50,Vxxxx4255xxx,Tibat
+2025-10-22,15:20:08,50,Xxxxx5947xxx,Tibat
+2025-10-22,15:19:12,50,Xxxxx4507xxx,Tibat
+2025-10-22,15:18:16,5,Xxxxx4032xxx,Tibat
+2025-10-22,15:16:52,50,Xxxxx7314xxx,Tibat
+2025-10-22,10:21:04,10,Exxxx5010xxx,Kotor
+2025-10-21,21:52:07,50,Pxxxx8271xxx,Kotor
+2025-10-21,21:52:07,5,Uxxxx7659xxx,Kotor
+2025-10-21,09:13:23,10,Wxxxx3872xxx,Kotor
+2025-10-21,09:10:39,20,Rxxxx0315xxx,Kotor
+2025-10-20,19:12:35,5,Txxxx2907xxx,Bar
+2025-10-19,22:19:44,10,Wxxxx5659xxx,Kotor
+2025-10-19,22:19:44,5,Nxxxx5271xxx,Kotor
+2025-10-18,16:45:10,20,Rxxxx5342xxx,Cetinje
+2025-10-18,16:44:34,5,Yxxxx4236xxx,Cetinje
+2025-10-18,16:44:34,5,Mxxxx7729xxx,Cetinje
+2025-10-18,16:44:34,5,Uxxxx3818xxx,Cetinje
+2025-10-17,20:55:11,5,Zxxxx4817xxx,Cetinje
+2025-10-17,20:52:29,10,Vxxxx7335xxx,Podgorica
+2025-10-16,14:39:51,5,Txxxx1838xxx,Bar
+2025-10-13,18:50:25,50,Wxxxx2111xxx,Tivat
+2025-10-13,18:50:25,50,Wxxxx6799xxx,Tivat
+2025-10-11,17:52:25,20,Uxxxx1027xxx,Bar
+2025-10-11,17:52:25,20,Nxxxx9408xxx,Bar
+2025-10-05,15:48:47,10,Pxxxx8798xxx,Bar
+2025-10-05,10:30:02,10,Wxxxx6142xxx,Budva
+2025-10-05,10:23:49,20,Wxxxx6550xxx,Budva
+2025-10-05,10:23:03,10,Pxxxx4904xxx,Budva
+2025-10-05,10:22:09,10,Yxxxx8122xxx,Budva
+2025-10-05,10:20:54,5,Wxxxx4777xxx,Budva
+2025-10-05,10:14:17,20,Uxxxx8647xxx,Budva
+2025-10-05,10:13:25,10,Wxxxx4720xxx,Budva
+2025-10-05,10:12:08,5,Uxxxx3150xxx,Budva
+2025-10-05,10:00:27,10,Wxxxx6154xxx,Budva
+2025-10-05,09:54:40,50,Sxxxx0676xxx,Budva
+2025-10-05,09:50:48,50,Rxxxx1305xxx,Budva
+2025-10-05,09:49:56,50,Vxxxx7732xxx,Budva
+2025-10-05,09:48:53,50,Vxxxx2433xxx,Budva
+2025-10-05,09:25:34,50,Sxxxx6191xxx,Budva
+2025-10-05,09:24:01,50,Xxxxx7471xxx,Budva
+2025-10-04,15:45:40,5,Nxxxx8964xxx,Sutomore
+2025-10-04,15:45:40,10,Xxxxx8568xxx,Sutomore
+2025-10-04,15:43:25,5,Mxxxx1072xxx,Ulcinj
+2025-10-04,15:43:25,10,Vxxxx0992xxx,Ulcinj
+2025-10-04,15:37:10,20,Nxxxx1277xxx,Bar
+2025-10-04,15:37:10,20,Uxxxx3745xxx,Bar
+2025-10-04,15:37:10,20,Exxxx1774xxx,Bar
+2025-10-04,15:37:10,20,Rxxxx5642xxx,Bar
+2025-10-04,14:10:22,5,Vxxxx2341xxx,Kamenari
+2025-10-03,22:18:11,20,Wxxxx0911xxx,Kotor
+2025-10-03,22:18:11,50,Sxxxx2907xxx,Kotor
+2025-10-03,22:18:11,20,Uxxxx6629xxx,Kotor
+2025-10-03,22:15:56,5,Vxxxx3741xxx,Kotor
+2025-10-03,22:15:56,5,Mxxxx6743xxx,Kotor
+2025-10-03,22:12:35,50,Uxxxx9157xxx,Risan
+2025-10-03,22:12:35,50,Rxxxx6042xxx,Risan
+2025-10-03,22:12:35,50,Vxxxx4434xxx,Risan
+2025-10-03,22:12:35,50,Uxxxx1025xxx,Risan
+2025-10-03,22:12:35,50,Rxxxx7066xxx,Risan
+2025-10-03,22:09:51,20,Mxxxx4101xxx,Risan
+2025-10-03,22:09:51,20,Uxxxx0147xxx,Risan
+2025-10-03,21:47:18,5,Nxxxx9141xxx,Sveti Stefan
+2025-10-03,15:46:17,10,Rxxxx1043xxx,Tivat
+2025-10-03,15:46:17,5,Mxxxx1543xxx,Tivat
+2025-10-03,15:45:30,5,Mxxxx2345xxx,Tivat
+2025-10-03,15:45:30,5,Txxxx6704xxx,Tivat
+2025-10-03,15:45:30,10,Wxxxx4510xxx,Tivat
+2025-10-03,15:45:30,5,Vxxxx1798xxx,Tivat
+2025-10-03,15:44:08,10,Wxxxx0315xxx,Tivat
+2025-10-03,15:44:08,5,Nxxxx5850xxx,Tivat
+2025-10-03,15:44:08,10,Wxxxx4140xxx,Tivat
+2025-10-03,15:44:08,5,Nxxxx4031xxx,Tivat
+2025-10-03,13:43:45,10,Rxxxx2192xxx,Grahovo
+2025-10-02,16:41:13,5,Nxxxx8825xxx,Bar
+2025-10-02,16:41:13,5,Zxxxx4750xxx,Bar
+2025-10-01,15:59:13,10,Fxxxx5956xxx,Tivat
+2025-10-01,15:59:13,5,Vxxxx3615xxx,Tivat
+2025-10-01,15:58:26,5,Vxxxx5415xxx,Tivat
+2025-10-01,15:58:26,5,Vxxxx5608xxx,Tivat
+2025-10-01,15:58:26,10,Nxxxx3358xxx,Tivat
+2025-10-01,15:58:26,5,Nxxxx4190xxx,Tivat
+2025-09-29,16:59:12,20,Rxxxx1181xxx,Bar
+2025-09-28,16:46:43,5,Mxxxx7862xxx,Kotor
+2025-09-28,16:46:43,5,Mxxxx4132xxx,Kotor
+2025-09-28,11:26:36,5,Nxxxx6328xxx,Danilovgrad
+2025-09-27,09:59:07,20,Rxxxx9099xxx,Žabljak
+2025-09-27,09:57:19,10,Uxxxx4798xxx,Žabljak
+2025-09-26,17:29:47,5,Nxxxx7272xxx,Žabljak
+2025-09-25,18:33:07,5,Nxxxx4022xxx,Herceg Novi
+2025-09-25,18:33:07,20,Exxxx9918xxx,Herceg Novi
+2025-09-25,18:33:07,20,Uxxxx1120xxx,Herceg Novi
+2025-09-25,18:28:34,10,Nxxxx8926xxx,Radovići
+2025-09-25,18:28:34,5,Nxxxx7424xxx,Radovići
+2025-09-25,18:25:16,10,Rxxxx5490xxx,Kotor
+2025-09-25,18:21:51,5,Uxxxx7084xxx,Kotor
+2025-09-25,18:04:14,5,Zxxxx3929xxx,Kolašin
+2025-09-25,18:03:05,5,Vxxxx3805xxx,Kolašin
+2025-09-25,18:01:58,5,Yxxxx3045xxx,Kolašin
+2025-09-25,14:54:35,10,Wxxxx9939xxx,Cetinje
+2025-09-25,14:52:42,5,Vxxxx3932xxx,Cetinje
+2025-09-25,13:47:38,20,Wxxxx4271xxx,Cetinje
+2025-09-25,13:45:43,10,Nxxxx3348xxx,Cetinje
+2025-09-25,13:44:15,5,Uxxxx0311xxx,Cetinje
+2025-09-25,11:28:13,5,Vxxxx3855xxx,Kotor
+2025-09-25,11:21:22,10,Wxxxx3927xxx,Kotor
+2025-09-25,11:19:05,5,Exxxx8877xxx,Kotor
+2025-09-24,21:47:33,50,Uxxxx4402xxx,Herceg Novi
+2025-09-24,21:47:33,50,Rxxxx0583xxx,Herceg Novi
+2025-09-24,21:47:33,50,Uxxxx1326xxx,Herceg Novi
+2025-09-24,21:47:33,50,Uxxxx4211xxx,Herceg Novi
+2025-09-24,21:47:33,50,Pxxxx5496xxx,Herceg Novi
+2025-09-24,21:47:33,50,Exxxx7762xxx,Herceg Novi
+2025-09-24,21:47:33,50,Exxxx0914xxx,Herceg Novi
+2025-09-24,21:47:33,50,Uxxxx8580xxx,Herceg Novi
+2025-09-24,21:43:24,20,Uxxxx1149xxx,Herceg Novi
+2025-09-24,21:43:24,20,Uxxxx4208xxx,Herceg Novi
+2025-09-24,21:43:24,5,Vxxxx3334xxx,Herceg Novi
+2025-09-24,21:40:56,20,Rxxxx3514xxx,Herceg Novi
+2025-09-24,21:40:56,20,Nxxxx5139xxx,Herceg Novi
+2025-09-24,21:40:56,5,Nxxxx6698xxx,Herceg Novi
+2025-09-24,21:38:18,20,Nxxxx2022xxx,Herceg Novi
+2025-09-24,21:38:18,20,Rxxxx3981xxx,Herceg Novi
+2025-09-24,21:36:27,5,Vxxxx4994xxx,Herceg Novi
+2025-09-24,16:29:57,5,Vxxxx4461xxx,Vilusi
+2025-09-24,16:27:08,5,Zxxxx1951xxx,Nikšić
+2025-09-24,16:24:56,5,Vxxxx1115xxx,Šavnik
+2025-09-24,10:55:05,20,Nxxxx6311xxx,Cetinje
+2025-09-24,10:54:05,5,Vxxxx6061xxx,Cetinje
+2025-09-24,04:32:36,50,Uxxxx8641xxx,Podgorica
+2025-09-24,04:32:36,50,Exxxx7303xxx,Podgorica
+2025-09-24,04:32:36,50,Exxxx3202xxx,Podgorica
+2025-09-24,04:32:36,50,Zxxxx7437xxx,Podgorica
+2025-09-23,20:19:17,5,Zxxxx2873xxx,Kolašin
+2025-09-23,16:40:10,5,Mxxxx3899xxx,Mateševo
+2025-09-23,16:38:30,5,Vxxxx4700xxx,Mateševo
+2025-09-23,16:36:45,5,Nxxxx7389xxx,Cetinje
+2025-09-22,21:21:13,100,Exxxx2164xxx,Bar
+2025-09-22,21:21:13,100,Uxxxx8818xxx,Bar
+2025-09-22,19:53:05,5,Vxxxx2994xxx,Budva
+2025-09-22,17:46:31,5,Uxxxx6307xxx,Tivat
+2025-09-22,17:46:31,10,Fxxxx7302xxx,Tivat
+2025-09-22,12:46:45,20,Exxxx8478xxx,Mrčevac
+2025-09-22,12:46:45,10,Yxxxx9553xxx,Mrčevac
+2025-09-22,12:46:12,20,Rxxxx5449xxx,Budva
+2025-09-22,12:46:12,10,Uxxxx5185xxx,Budva
+2025-09-22,12:46:12,5,Vxxxx6193xxx,Budva
+2025-09-21,20:41:57,5,Yxxxx8509xxx,Budva
+2025-09-21,20:41:33,10,Wxxxx3010xxx,Budva
+2025-09-21,20:41:33,5,Nxxxx7583xxx,Budva
+2025-09-21,12:45:16,20,Uxxxx1161xxx,Budva
+2025-09-21,12:45:16,10,Nxxxx5856xxx,Budva
+2025-09-21,12:45:16,5,Vxxxx5436xxx,Budva
+2025-09-21,12:45:16,10,Yxxxx4831xxx,Budva
+2025-09-21,12:45:16,5,Uxxxx5385xxx,Budva
+2025-09-21,12:45:16,5,Nxxxx8825xxx,Budva
+2025-09-21,12:10:29,20,Uxxxx9397xxx,Kotor
+2025-09-21,12:08:54,5,Yxxxx9896xxx,Budva
+2025-09-21,12:08:54,5,Nxxxx6801xxx,Budva
+2025-09-21,08:43:26,50,Vxxxx5369xxx,Sutomore
+2025-09-21,08:43:26,50,Rxxxx7902xxx,Sutomore
+2025-09-21,08:38:01,100,Uxxxx3792xxx,Sutomore
+2025-09-21,08:38:01,10,Wxxxx6453xxx,Sutomore
+2025-09-21,08:38:01,20,Uxxxx3645xxx,Sutomore
+2025-09-21,08:38:01,100,Vxxxx0297xxx,Sutomore
+2025-09-21,08:32:57,10,Wxxxx3758xxx,Sutomore
+2025-09-21,08:32:57,10,Nxxxx8159xxx,Sutomore
+2025-09-21,08:31:23,5,Exxxx6423xxx,Sutomore
+2025-09-21,08:31:23,5,Nxxxx3187xxx,Sutomore
+2025-09-21,08:31:23,5,Zxxxx5399xxx,Sutomore
+2025-09-21,08:31:23,5,Uxxxx5739xxx,Sutomore
+2025-09-21,08:31:23,5,Nxxxx3074xxx,Sutomore
+2025-09-21,08:31:23,5,Nxxxx6841xxx,Sutomore
+2025-09-21,08:31:23,5,Zxxxx0744xxx,Sutomore
+2025-09-20,22:37:07,50,Vxxxx9250xxx,Škaljari
+2025-09-20,22:28:53,50,Pxxxx8239xxx,Herceg Novi
+2025-09-20,22:19:32,10,Fxxxx6451xxx,Zaton
+2025-09-20,22:16:55,20,Rxxxx3567xxx,Zaton
+2025-09-20,22:09:06,50,Uxxxx8733xxx,Herceg Novi
+2025-09-20,22:06:00,20,Mxxxx1374xxx,Herceg Novi
+2025-09-20,22:05:01,20,Rxxxx3281xxx,Herceg Novi
+2025-09-20,22:05:01,20,Exxxx6500xxx,Herceg Novi
+2025-09-20,19:58:18,10,Xxxxx5100xxx,Budva
+2025-09-20,19:58:18,5,Yxxxx3736xxx,Budva
+2025-09-20,19:57:09,10,Wxxxx7809xxx,Budva
+2025-09-20,19:57:09,5,Mxxxx2151xxx,Budva
+2025-09-20,19:30:19,5,Uxxxx2852xxx,Dabovići
+2025-09-20,19:28:31,20,Rxxxx3567xxx,Dabovići
+2025-09-20,19:28:31,5,Yxxxx2678xxx,Dabovići
+2025-09-20,19:12:08,10,Wxxxx6351xxx,Herceg Novi
+2025-09-20,19:05:01,10,Wxxxx5428xxx,Herceg Novi
+2025-09-20,16:08:07,20,Nxxxx3416xxx,Budva
+2025-09-20,16:08:07,10,Nxxxx8314xxx,Budva
+2025-09-20,16:08:07,10,Rxxxx5805xxx,Budva
+2025-09-20,16:08:07,5,Nxxxx6206xxx,Budva
+2025-09-20,16:08:07,5,Wxxxx1760xxx,Budva
+2025-09-20,12:46:39,10,Vxxxx5787xxx,Bar
+2025-09-19,22:34:18,50,Exxxx2334xxx,Herceg Novi
+2025-09-19,22:32:21,50,Wxxxx4895xxx,Herceg Novi
+2025-09-19,22:30:14,20,Sxxxx0166xxx,Ada Bojana
+2025-09-19,22:26:17,20,Rxxxx9481xxx,Herceg Novi
+2025-09-19,22:16:53,20,Exxxx3229xxx,Herceg Novi
+2025-09-19,22:16:53,5,Yxxxx7789xxx,Herceg Novi
+2025-09-19,22:12:42,5,Nxxxx8949xxx,Budva
+2025-09-19,22:12:42,20,Rxxxx2995xxx,Budva
+2025-09-19,22:12:42,20,Uxxxx0207xxx,Budva
+2025-09-19,22:10:09,10,Nxxxx9950xxx,Herceg Novi
+2025-09-19,22:01:46,20,Exxxx7395xxx,Kotor
+2025-09-19,21:57:48,5,Mxxxx7872xxx,Ada Bojana
+2025-09-19,19:23:01,5,Mxxxx4454xxx,Budva
+2025-09-19,19:22:35,5,Vxxxx5583xxx,Budva
+2025-09-19,19:21:16,10,Wxxxx4475xxx,Budva
+2025-09-19,19:21:16,5,Vxxxx0875xxx,Budva
+2025-09-19,16:46:46,20,Exxxx6097xxx,Herceg Novi
+2025-09-19,16:46:46,10,Fxxxx0859xxx,Herceg Novi
+2025-09-19,16:46:46,10,Exxxx0936xxx,Herceg Novi
+2025-09-19,16:42:24,20,Exxxx6473xxx,Herceg Novi
+2025-09-19,16:42:24,20,Uxxxx3639xxx,Herceg Novi
+2025-09-19,16:42:24,10,Rxxxx2658xxx,Herceg Novi
+2025-09-19,16:12:29,10,Rxxxx0219xxx,Radanovići
+2025-09-19,16:10:28,20,Exxxx1422xxx,Radanovići
+2025-09-19,16:05:40,5,Exxxx0659xxx,Herceg Novi
+2025-09-19,16:02:10,10,Wxxxx2781xxx,Herceg Novi
+2025-09-19,15:59:57,50,Pxxxx5986xxx,Herceg Novi
+2025-09-19,15:59:57,50,Uxxxx1765xxx,Herceg Novi
+2025-09-19,15:59:57,20,Uxxxx9397xxx,Herceg Novi
+2025-09-19,15:59:24,20,Nxxxx3219xxx,Herceg Novi
+2025-09-19,15:18:44,10,Nxxxx0602xxx,Herceg Novi
+2025-09-19,15:14:44,10,Nxxxx1945xxx,Đenovići
+2025-09-19,15:10:28,10,Nxxxx6375xxx,Đenovići
+2025-09-19,15:09:53,5,Wxxxx3707xxx,Herceg novi
+2025-09-19,13:17:38,5,Nxxxx9316xxx,Ulcinj
+2025-09-19,12:53:17,50,Uxxxx8612xxx,Tivat
+2025-09-19,12:50:15,20,Sxxxx8131xxx,Tivat
+2025-09-19,12:50:15,10,Nxxxx7547xxx,Tivat
+2025-09-19,12:50:15,5,Uxxxx1190xxx,Tivat
+2025-09-19,11:11:11,20,Rxxxx9981xxx,Budva
+2025-09-19,11:11:11,10,Wxxxx6202xxx,Budva
+2025-09-19,11:11:11,10,Wxxxx2049xxx,Budva
+2025-09-19,11:11:11,5,Uxxxx0689xxx,Budva
+2025-09-19,11:11:11,10,Nxxxx7046xxx,Budva
+2025-09-19,11:11:11,10,Wxxxx0898xxx,Budva
+2025-09-18,23:52:14,10,Wxxxx2256xxx,Vranjina
+2025-09-18,23:52:01,10,Wxxxx7915xxx,Vranjina
+2025-09-18,23:42:27,10,Uxxxx5636xxx,Virpazar
+2025-09-18,23:40:06,10,Yxxxx1358xxx,Virpazar
+2025-09-18,23:31:43,20,Uxxxx3754xxx,Budva
+2025-09-18,23:31:43,10,Nxxxx7212xxx,Budva
+2025-09-18,23:30:17,10,Nxxxx8135xxx,Budva
+2025-09-18,23:30:08,5,Mxxxx9634xxx,Budva
+2025-09-18,23:28:59,20,Mxxxx6716xxx,Budva
+2025-09-18,23:28:16,10,Wxxxx8789xxx,Budva
+2025-09-18,23:26:02,10,Wxxxx4157xxx,Podgorica
+2025-09-18,23:26:02,10,Pxxxx1215xxx,Podgorica
+2025-09-18,23:25:42,5,Yxxxx9485xxx,Podgorica
+2025-09-18,23:22:05,5,Mxxxx0751xxx,Budva
+2025-09-18,23:22:01,10,Wxxxx4199xxx,Budva
+2025-09-18,23:20:19,10,Nxxxx3602xxx,Ulcinj
+2025-09-18,23:19:56,5,Mxxxx2335xxx,Ulcinj
+2025-09-18,23:17:33,20,Uxxxx2053xxx,Ulcinj
+2025-09-18,23:17:09,20,Exxxx1463xxx,Ulcinj
+2025-09-18,23:15:43,10,Wxxxx4586xxx,Ulcinj
+2025-09-18,23:14:25,5,Uxxxx3365xxx,Ulcinj
+2025-09-18,21:42:55,20,Wxxxx0914xxx,Tivat
+2025-09-18,21:42:55,20,Uxxxx5381xxx,Tivat
+2025-09-18,19:03:57,10,Wxxxx0703xxx,Donji Štoj
+2025-09-18,19:03:57,10,Rxxxx9633xxx,Donji Štoj
+2025-09-18,19:03:57,10,Wxxxx9043xxx,Donji Štoj
+2025-09-18,19:03:57,5,Exxxx3934xxx,Doni Štoj
+2025-09-18,19:03:57,5,Nxxxx4563xxx,Velika Plaža Bb
+2025-09-18,19:01:07,5,Nxxxx9059xxx,Donji Štoj
+2025-09-18,19:00:53,10,Nxxxx4370xxx,Doni Štoj
+2025-09-18,19:00:44,10,Fxxxx8607xxx,Doni Štoj
+2025-09-18,19:00:36,10,Nxxxx4311xxx,Doni Štoj
+2025-09-18,17:57:19,5,Nxxxx0626xxx,Ulcinj
+2025-09-18,15:40:05,10,Nxxxx6361xxx,Ulcinj
+2025-09-18,15:40:05,10,Wxxxx6937xxx,Ulcinj
+2025-09-18,15:37:25,5,Vxxxx8833xxx,Bratica
+2025-09-18,15:37:25,10,Nxxxx1295xxx,Bratica
+2025-09-18,15:35:10,10,Nxxxx1156xxx,Bar
+2025-09-18,15:14:33,20,Fxxxx1323xxx,Bar
+2025-09-18,15:14:33,10,Yxxxx5512xxx,Bar
+2025-09-18,14:58:36,10,Nxxxx7520xxx,Ulcinj
+2025-09-18,14:58:05,5,Nxxxx5268xxx,Ulcinj
+2025-09-18,14:53:01,20,Rxxxx6188xxx,Bratica
+2025-09-18,14:53:01,10,Txxxx5296xxx,Bratica
+2025-09-18,14:46:21,10,Yxxxx8268xxx,Bar
+2025-09-18,14:40:02,5,Nxxxx2821xxx,Bar
+2025-09-18,13:49:54,10,Uxxxx5799xxx,Herceg Novi
+2025-09-18,13:46:01,10,Uxxxx8267xxx,Žanjic
